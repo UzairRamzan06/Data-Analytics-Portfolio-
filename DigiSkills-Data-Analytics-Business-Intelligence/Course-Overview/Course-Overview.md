@@ -135,5 +135,3 @@ It directly contributes to my:
 * Course Progress: In Progress
 * Current Phase: Foundation Building
 * Next Step: Week 01 Documentation
-
----
